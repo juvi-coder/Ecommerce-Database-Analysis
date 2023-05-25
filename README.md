@@ -1,6 +1,9 @@
 # Ecommerce-Database-Analysis
 Using SQL and Tableau, I developed a Business Story based on the Fuzzy Factory Database. Business Concepts: Traffic Analysis, Bounce Rates, A/B Test Analysis, Funnel Analysis, Product Portfolio Analysis. SQL Concepts: Temporary Tables, Sub Queries, CASE and Pivot, Trend Analysis
 
+# Sample Finding
+<img width="1508" alt="Screenshot 2023-05-25 at 5 09 47 PM" src="https://github.com/juvi-coder/Ecommerce-Database-Analysis/assets/100660932/fd129507-fc8e-4f4b-a3d7-ef0632f29630">
+
 # Business Concepts Learnt while working on this database
 
 By leveraging SQL query techniques such as multi-step queries, temporary tables, subqueries, trend analysis queries, and CASE and Pivot statements, we can gain valuable insights from the Ecommerce database.
@@ -58,7 +61,6 @@ Identify patterns, seasonality, and anomalies to understand the impact of differ
 Business was launched March 1st, 2012. Crafting a narrative showcasing the business's remarkable growth since its launch on March 1st, 2012.
 Please look at the **Findings_PDF** to understand the growth.
 
-# Sample Finding
-<img width="1508" alt="Screenshot 2023-05-25 at 5 09 47 PM" src="https://github.com/juvi-coder/Ecommerce-Database-Analysis/assets/100660932/fd129507-fc8e-4f4b-a3d7-ef0632f29630">
+
 
 
