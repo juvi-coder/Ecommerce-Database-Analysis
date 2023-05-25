@@ -53,4 +53,9 @@ Identify patterns, seasonality, and anomalies to understand the impact of differ
 
 <img width="1050" alt="Screenshot 2023-05-24 at 11 30 09 PM" src="https://github.com/juvi-coder/Ecommerce-Database-Analysis/assets/100660932/06161b6a-e2ea-4e97-a54a-57e1b5773e80">
 
+# Context
+
+Business was launched March 1st, 2012. Crafting a narrative showcasing the business's remarkable growth since its launch on March 1st, 2012.
+Please look at the **Findings_PDF** to understand the growth.
+
 
