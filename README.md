@@ -49,7 +49,7 @@ Develop SQL queries to analyze trends in marketing channels, website conversion 
 Identify patterns, seasonality, and anomalies to understand the impact of different factors on the business.
 
 
-#ERD Diagram of the Database
+# ERD Diagram of the Database
 
 <img width="1050" alt="Screenshot 2023-05-24 at 11 30 09 PM" src="https://github.com/juvi-coder/Ecommerce-Database-Analysis/assets/100660932/06161b6a-e2ea-4e97-a54a-57e1b5773e80">
 
