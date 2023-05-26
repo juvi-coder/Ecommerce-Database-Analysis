@@ -4,6 +4,9 @@ Using SQL and Tableau, I developed a Business Story based on the Fuzzy Factory D
 # Sample Finding
 <img width="1508" alt="Screenshot 2023-05-25 at 5 09 47 PM" src="https://github.com/juvi-coder/Ecommerce-Database-Analysis/assets/100660932/fd129507-fc8e-4f4b-a3d7-ef0632f29630">
 
+<img width="1499" alt="Screenshot 2023-05-25 at 8 59 18 PM" src="https://github.com/juvi-coder/Ecommerce-Database-Analysis/assets/100660932/067a4d0a-ece3-4f3f-9dbe-17c3ddd51abe">
+
+
 # Business Concepts Learnt while working on this database
 
 By leveraging SQL query techniques such as multi-step queries, temporary tables, subqueries, trend analysis queries, and CASE and Pivot statements, we can gain valuable insights from the Ecommerce database.
